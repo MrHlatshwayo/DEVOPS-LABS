@@ -31,7 +31,7 @@ date --help (quick info on date)
 2. **Quick Look**: Use `<command> --help` for a fast syntax reminder.
 - What output or verification confirmed success?
   The commands we entered all returned the expected ouputs:
-![[Pasted image 20261112140539.png]]
+![Man and help command output](../../Pasted%20image%2020261112140539.png)
 ---
 
 ## 📝 Notes

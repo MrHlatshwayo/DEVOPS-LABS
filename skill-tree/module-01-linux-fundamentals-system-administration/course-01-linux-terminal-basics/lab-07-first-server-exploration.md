@@ -43,7 +43,7 @@ labex:// $ cd home
 labex:/home/ $ man pwd
 labex:/home/ $ 
 ```
-![[Pasted image 20261112142059.png]]
+![First server exploration output](../../Pasted%20image%2020261112142059.png)
 ---
 
 ## 📝 Notes

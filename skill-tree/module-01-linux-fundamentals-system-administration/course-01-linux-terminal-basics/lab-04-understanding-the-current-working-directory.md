@@ -34,7 +34,7 @@ labex:/tmp/ $ pwd
 /tmp
 labex:/tmp/ $ 
 ```
-![[Pasted image 20261112133612.png]]
+![Working directory output](../../Pasted%20image%2020261112133612.png)
 ---
 
 ## 📝 Notes

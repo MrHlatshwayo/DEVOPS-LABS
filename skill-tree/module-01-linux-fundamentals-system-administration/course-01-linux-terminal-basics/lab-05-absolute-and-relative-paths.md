@@ -53,7 +53,7 @@ labex:/home/ $ cd -
 /
 labex:// $ 
 ```
-![[Pasted image 20261112134622.png]]
+![Absolute and relative path output](../../Pasted%20image%2020261112134622.png)
 ---
 
 ## 📝 Notes

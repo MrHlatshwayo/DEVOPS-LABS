@@ -38,9 +38,9 @@ labex:project/ $ echo "I am logged in as $USER"
 I am logged in as labex
 labex:project/ $ 
 ```
-![[Pasted image 20261112092317.png]]
+![Terminal prompt example](../../Pasted%20image%2020261112092317.png)
 ---
-![[Pasted image 20261112092737.png]]
+![Terminal prompt details](../../Pasted%20image%2020261112092737.png)
 ## 📝 Notes
 - Lessons learned, troubleshooting steps, or follow-up work.
  What I learned today was how prompts are structured and how being able the read them helps me have a better understanding of the user, location and privileges.

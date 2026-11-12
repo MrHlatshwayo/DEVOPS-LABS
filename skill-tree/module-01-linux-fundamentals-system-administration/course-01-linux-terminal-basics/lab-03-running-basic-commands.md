@@ -24,7 +24,7 @@ exit (closes or logs off from session)
   3. **Closure**: How to properly end your session with `exit`
 - What output or verification confirmed success?
   The Terminal Closed which successfully confirmed the ouput of the `exit` command 
-![[Pasted image 20261112131608.png]]
+![Basic command output](../../Pasted%20image%2020261112131608.png)
 ---
 
 ## 📝 Notes
