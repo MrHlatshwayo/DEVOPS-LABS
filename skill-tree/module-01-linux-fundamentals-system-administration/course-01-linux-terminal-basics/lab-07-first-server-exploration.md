@@ -12,16 +12,40 @@
 
 ## 🛠️ Commands & Configuration Used
 ```bash
-# Paste key commands or script snippets executed during the lab
+whoami
+hostaname
+cd /
+cd ..
+cd path
+man
 ```
 
 ---
 
 ## ✅ Results
 - What was completed?
+  In this challenge, I demonstrated the core orientation skills required of every system administrator:
+1. **Identity Verification**: Using `whoami` to ensure accountability.
+2. **Host Verification**: Using `hostname` to ensure safety.
+3. **Absolute Navigation**: Using `cd /path` for precision.
+4. **Relative Navigation**: Using `cd ..` and `cd path` for speed and efficiency.
+5. **Documentation**: Using `man` to find answers independently
 - What output or verification confirmed success?
-
+  Each command produced the expected outcome and did not print any errors:
+```
+labex:project/ $ whoami
+labex
+labex:project/ $ hostname
+6af5ac5bd37ba9a2e8d85282
+labex:project/ $ cd /etc
+labex:/etc/ $ cd ..
+labex:// $ cd home
+labex:/home/ $ man pwd
+labex:/home/ $ 
+```
+![[Pasted image 20261112142059.png]]
 ---
 
 ## 📝 Notes
 - Lessons learned, troubleshooting steps, or follow-up work.
+In this Lab, I used all the knowledge learned throughout the course to navigate the system and get the required information with ease. 
