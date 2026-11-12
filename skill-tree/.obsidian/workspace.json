@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-06-getting-help-with-man-and-info.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-07-first-server-exploration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab-06-getting-help-with-man-and-info"
+              "title": "lab-07-first-server-exploration"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-06-getting-help-with-man-and-info.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-07-first-server-exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-06-getting-help-with-man-and-info.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-07-first-server-exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-06-getting-help-with-man-and-info.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-07-first-server-exploration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,6 +191,8 @@
   },
   "active": "ade92c0cc3f24e2d",
   "lastOpenFiles": [
+    "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-06-getting-help-with-man-and-info.md",
+    "Pasted image 20261112140539.png",
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-05-absolute-and-relative-paths.md",
     "Pasted image 20261112134622.png",
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-04-understanding-the-current-working-directory.md",
