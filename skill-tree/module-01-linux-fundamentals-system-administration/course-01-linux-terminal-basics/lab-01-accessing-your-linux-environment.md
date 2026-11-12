@@ -41,7 +41,7 @@ labex:project/ $ pwd
 labex:project/ $ hostname
 6af5619ad37ba9a2e8d7a597
 ```
-  ![[Pasted image 20261112085550.png]]
+  ![Terminal output](../../Pasted%20image%2020261112085550.png)
 
 ---
 
