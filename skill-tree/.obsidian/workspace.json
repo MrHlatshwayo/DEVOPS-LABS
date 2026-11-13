@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-02-listing-files-and-hidden-files.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-03-creating-files-and-directories.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab-02-listing-files-and-hidden-files"
+              "title": "lab-03-creating-files-and-directories"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-02-listing-files-and-hidden-files.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-03-creating-files-and-directories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-02-listing-files-and-hidden-files.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-03-creating-files-and-directories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-02-listing-files-and-hidden-files.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-03-creating-files-and-directories.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,6 +191,8 @@
   },
   "active": "ade92c0cc3f24e2d",
   "lastOpenFiles": [
+    "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-02-listing-files-and-hidden-files.md",
+    "Pasted image 20261113114129.png",
     "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-01-linux-directory-structure-overview.md",
     "Pasted image 20261113112224.png",
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/README.md",
