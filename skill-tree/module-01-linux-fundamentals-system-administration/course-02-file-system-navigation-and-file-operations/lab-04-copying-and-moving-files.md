@@ -10,7 +10,7 @@
 ---
 
 ## 🛠️ Commands & Configuration Used
-```bash
+```shell
 cp (copy)
 cp -r (copy recursively)
 mv (move/rename)
@@ -27,9 +27,30 @@ ls -F (list folder)
   3. **`mv old new`**: Rename a file.
   4. **`mv file dir/`**: Move a file into a folder.
 - What output or verification confirmed success?
+```
+labex:project/ $ ls 
+file1.txt  project_alpha
+labex:project/ $ cp file1.txt file1.bak
+labex:project/ $ ls
+file1.bak  file1.txt  project_alpha
+labex:project/ $ cp -r project_alpha project_beta
+labex:project/ $ ls -F
+file1.bak  file1.txt  project_alpha/  project_beta/
+labex:project/ $ mv file1.bak file1.old
+labex:project/ $ ls
+file1.old  file1.txt  project_alpha  project_beta
+labex:project/ $ mv file1.old project_alpha/
+labex:project/ $ ls
+file1.txt  project_alpha  project_beta
+labex:project/ $ ls project_alpha/
+data.txt  file1.old
+labex:project/ $ 
+```
 ![](Pasted%20image%2020261113120351.png)
 ---
 
 ## 📝 Notes
 - Lessons learned, troubleshooting steps, or follow-up work.
-What I learned in this lab is how to move, copy and rename files and directro
+What I learned in this lab is how to move, copy and rename files and directories. What stood for is the logic behind both moving and renaming having the same command, at the core they bot edit the details of the file wether path or just title.
+
+What I still wanna test is if moving a directory into another directory is simple or would also need me to use the recursive flag.
