@@ -9,7 +9,7 @@
 ---
 
 ## 🛠️ Commands & Configuration Used
-```bash
+```shell
 ls (list)
 cat (concatenate)
 file (file content/type)
@@ -24,7 +24,7 @@ file (file content/type)
 2. **Extensions lie**: `.jpg` doesn't always mean image.
 3. **No extension? No problem**: Linux doesn't need extensions to know what a file is.
 - What output or verification confirmed success?
-```
+```shell
 labex:project/ $ ls -l
 total 12
 -rw-rw-r-- 1 labex labex 46 Nov 14 02:06 fake_image.jpg

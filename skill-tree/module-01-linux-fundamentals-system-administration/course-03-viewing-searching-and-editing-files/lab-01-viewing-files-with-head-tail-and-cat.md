@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Commands & Configuration Used
-```bash
+```shell
 cat (concatenate)
 head (first 10 lines)
 tail (last 10 lines)
@@ -28,7 +28,7 @@ ls (list)
 - **`tail`**: Reads the end. Good for logs.
 - **`tail -f`**: Watches a file in real-time.
 - What output or verification confirmed success?
-```
+```shell
 Line 5: End of the sample file.
 labex:project/ $ head /etc/passwd
 root:x:0:0:root:/root:/bin/bash

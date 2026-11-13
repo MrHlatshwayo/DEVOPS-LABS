@@ -9,7 +9,7 @@
 ---
 
 ## 🛠️ Commands & Configuration Used
-```bash
+```shell
 less (open file in pager)
 ls (list)
 ```

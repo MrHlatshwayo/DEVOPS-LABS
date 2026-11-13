@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-04-searching-content-with-grep.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-05-counting-and-measuring-data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab-04-searching-content-with-grep"
+              "title": "lab-05-counting-and-measuring-data"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-04-searching-content-with-grep.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-05-counting-and-measuring-data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-04-searching-content-with-grep.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-05-counting-and-measuring-data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-04-searching-content-with-grep.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-05-counting-and-measuring-data.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,17 +191,22 @@
   },
   "active": "ade92c0cc3f24e2d",
   "lastOpenFiles": [
-    "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-03-determining-file-types.md",
-    "Pasted image 20261113201350.png",
+    "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-04-searching-content-with-grep.md",
     "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-02-paging-through-large-files.md",
-    "Pasted image 20261113200504.png",
+    "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-04-understanding-the-current-working-directory.md",
+    "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-05-removing-files-and-directories-safely.md",
+    "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-02-understanding-the-terminal-and-prompt.md",
+    "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-01-linux-directory-structure-overview.md",
     "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-01-viewing-files-with-head-tail-and-cat.md",
+    "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-03-determining-file-types.md",
+    "Pasted image 20261113202430.png",
+    "Pasted image 20261113201350.png",
+    "Pasted image 20261113200504.png",
     "Pasted image 20261113195602.png",
     "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-07-filesystem-cleanup-task.md",
     "Pasted image 20261113194312.png",
     "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-06-using-wildcards-and-globbing.md",
     "Pasted image 20261113193210.png",
-    "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-05-removing-files-and-directories-safely.md",
     "Pasted image 20261113192137.png",
     "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-04-copying-and-moving-files.md",
     "Pasted image 20261113120351.png",
@@ -209,16 +214,12 @@
     "Pasted image 20261113115258.png",
     "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-02-listing-files-and-hidden-files.md",
     "Pasted image 20261113114129.png",
-    "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-01-linux-directory-structure-overview.md",
-    "Pasted image 20261113112224.png",
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/README.md",
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-07-first-server-exploration.md",
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-06-getting-help-with-man-and-info.md",
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-05-absolute-and-relative-paths.md",
-    "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-04-understanding-the-current-working-directory.md",
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-03-running-basic-commands.md",
     "desktop.ini",
-    "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-02-understanding-the-terminal-and-prompt.md",
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-01-accessing-your-linux-environment.md"
   ]
 }
