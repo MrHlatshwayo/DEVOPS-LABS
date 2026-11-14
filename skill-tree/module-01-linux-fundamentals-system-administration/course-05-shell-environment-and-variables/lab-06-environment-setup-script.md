@@ -2,6 +2,7 @@
 
 ## 🎯 Lab Objectives
 - What specific skill or tool was tested?
+  In this lab we will be setting up the enviroment
 - What problem were you tasked to solve?
 
 ---
