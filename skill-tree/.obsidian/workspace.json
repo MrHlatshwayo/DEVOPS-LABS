@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-02-redirection-to-files.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-04-command-history.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab-02-redirection-to-files"
+              "title": "lab-04-command-history"
             }
           }
         ]
@@ -191,6 +191,10 @@
   },
   "active": "ade92c0cc3f24e2d",
   "lastOpenFiles": [
+    "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-03-pipes-and-chaining-commands.md",
+    "Pasted image 20261114095809.png",
+    "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-02-redirection-to-files.md",
+    "Pasted image 20261114094928.png",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-01-standard-input-output-and-error.md",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-07-log-analysis-pipeline.md",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/README.md",
@@ -214,9 +218,7 @@
     "Pasted image 20261113202430.png",
     "Pasted image 20261113201350.png",
     "Pasted image 20261113200504.png",
-    "Pasted image 20261113195602.png",
     "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-07-filesystem-cleanup-task.md",
-    "Pasted image 20261113194312.png",
     "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-06-using-wildcards-and-globbing.md",
     "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-04-copying-and-moving-files.md",
     "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-03-creating-files-and-directories.md",
@@ -225,8 +227,6 @@
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-07-first-server-exploration.md",
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-06-getting-help-with-man-and-info.md",
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-05-absolute-and-relative-paths.md",
-    "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-03-running-basic-commands.md",
-    "desktop.ini",
-    "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-01-accessing-your-linux-environment.md"
+    "desktop.ini"
   ]
 }
