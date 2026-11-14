@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-05-counting-and-measuring-data.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-06-editing-files-with-nano.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab-05-counting-and-measuring-data"
+              "title": "lab-06-editing-files-with-nano"
             }
           }
         ]
@@ -191,6 +191,9 @@
   },
   "active": "ade92c0cc3f24e2d",
   "lastOpenFiles": [
+    "Pasted image 20261114091831.png",
+    "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-05-counting-and-measuring-data.md",
+    "Pasted image 20261114091036.png",
     "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-04-searching-content-with-grep.md",
     "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-02-paging-through-large-files.md",
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-04-understanding-the-current-working-directory.md",
@@ -213,7 +216,6 @@
     "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-03-creating-files-and-directories.md",
     "Pasted image 20261113115258.png",
     "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-02-listing-files-and-hidden-files.md",
-    "Pasted image 20261113114129.png",
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/README.md",
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-07-first-server-exploration.md",
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-06-getting-help-with-man-and-info.md",
