@@ -13,14 +13,19 @@
 
 ## 🛠️ Commands & Configuration Used
 ```bash
-# Paste key commands or script snippets executed during the lab
+grep (search)
+vim (editor)
+cat (show file)
 ```
 
 ---
 
 ## ✅ Results
 - What was completed?
-  
+  In this challenge, I demonstrated essential skills:
+1. **Diagnose**: Using `grep` to check settings.
+2. **Edit**: Using `nano` or `vim` to modify files.
+3. **Verify**: Using `cat` to confirm changes.
 - What output or verification confirmed success?
 ```
 labex:project/ $ grep "TIMEOUT" server/comfig/app.conf
@@ -47,3 +52,4 @@ labex:project/ $
 
 ## 📝 Notes
 - Lessons learned, troubleshooting steps, or follow-up work.
+In this lab I learned and practiced configuring files. From searching for the required content to editing it to meet requirements.
