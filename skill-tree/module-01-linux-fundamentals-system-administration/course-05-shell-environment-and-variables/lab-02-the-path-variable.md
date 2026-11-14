@@ -2,7 +2,11 @@
 
 ## 🎯 Lab Objectives
 - What specific skill or tool was tested?
+  In this lab we will be using the termina;, this lab will test our ability to use the path variable
 - What problem were you tasked to solve?
+  1. View your `PATH`.
+  2. Use `which` to locate programs.
+  3. Learn why executing local scripts requires `./`
 
 ---
 

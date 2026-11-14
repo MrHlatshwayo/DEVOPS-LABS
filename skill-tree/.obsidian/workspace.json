@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-07-log-analysis-pipeline.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-05-shell-environment-and-variables/lab-02-the-path-variable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab-07-log-analysis-pipeline"
+              "title": "lab-02-the-path-variable"
             }
           }
         ]
@@ -191,6 +191,9 @@
   },
   "active": "ade92c0cc3f24e2d",
   "lastOpenFiles": [
+    "module-01-linux-fundamentals-system-administration/course-05-shell-environment-and-variables/lab-01-environment-variables-explained.md",
+    "Pasted image 20261114144426.png",
+    "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-07-log-analysis-pipeline.md",
     "Pasted image 20261114103344.png",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-06-command-aliases.md",
     "Pasted image 20261114102244.png",
@@ -203,7 +206,6 @@
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-02-redirection-to-files.md",
     "Pasted image 20261114094928.png",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-01-standard-input-output-and-error.md",
-    "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-07-log-analysis-pipeline.md",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/README.md",
     "Pasted image 20261114094154.png",
     "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-08-configuration-file-repair.md",
@@ -211,9 +213,7 @@
     "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-07-intro-to-vim.md",
     "Pasted image 20261114092512.png",
     "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-06-editing-files-with-nano.md",
-    "Pasted image 20261114091831.png",
     "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-05-counting-and-measuring-data.md",
-    "Pasted image 20261114091036.png",
     "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-04-searching-content-with-grep.md",
     "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-02-paging-through-large-files.md",
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-04-understanding-the-current-working-directory.md",
