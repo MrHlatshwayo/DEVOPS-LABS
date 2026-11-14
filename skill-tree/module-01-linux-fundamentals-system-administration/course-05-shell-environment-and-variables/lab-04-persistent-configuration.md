@@ -2,6 +2,7 @@
 
 ## 🎯 Lab Objectives
 - What specific skill or tool was tested?
+  In this lab we will be using the terminal, It will test our ability to make persistent confi
 - What problem were you tasked to solve?
 
 ---
