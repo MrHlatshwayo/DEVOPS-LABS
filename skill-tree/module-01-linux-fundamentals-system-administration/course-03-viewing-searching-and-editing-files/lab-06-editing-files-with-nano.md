@@ -10,7 +10,7 @@
 
 ## 🛠️ Commands & Configuration Used
 ```bash
-# Paste key commands or script snippets executed during the lab
+nano (text editor)
 ```
 
 ---
@@ -36,3 +36,4 @@ labex:project/ $
 
 ## 📝 Notes
 - Lessons learned, troubleshooting steps, or follow-up work.
+In this lab I used nano to create and edit a file.
