@@ -13,7 +13,11 @@
 
 ## 🛠️ Commands & Configuration Used
 ```bash
-cat
+cat (show file)
+| (pipe)
+sort (order content)
+sort -n (order content numerically)
+uniq -c (count duplicate)
 ```
 
 ---
@@ -63,3 +67,4 @@ labex:project/ $ cat
 
 ## 📝 Notes
 - Lessons learned, troubleshooting steps, or follow-up work.
+In this lab we learned how to build a pipeline that sorts data, counts the duplicate data and orders it again in numerical order.
