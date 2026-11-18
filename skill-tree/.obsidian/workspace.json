@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-05-shell-environment-and-variables/lab-06-environment-setup-script.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-06-users-groups-and-permissions/lab-01-users-and-groups-explained.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab-06-environment-setup-script"
+              "title": "lab-01-users-and-groups-explained"
             }
           }
         ]
@@ -191,6 +191,7 @@
   },
   "active": "ade92c0cc3f24e2d",
   "lastOpenFiles": [
+    "module-01-linux-fundamentals-system-administration/course-05-shell-environment-and-variables/lab-06-environment-setup-script.md",
     "Pasted image 20261114154511.png",
     "module-01-linux-fundamentals-system-administration/course-05-shell-environment-and-variables/lab-05-command-substitution.md",
     "Pasted image 20261114153017.png",
@@ -211,7 +212,6 @@
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-04-command-history.md",
     "Pasted image 20261114100652.png",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-03-pipes-and-chaining-commands.md",
-    "Pasted image 20261114095809.png",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-02-redirection-to-files.md",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-01-standard-input-output-and-error.md",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/README.md",
