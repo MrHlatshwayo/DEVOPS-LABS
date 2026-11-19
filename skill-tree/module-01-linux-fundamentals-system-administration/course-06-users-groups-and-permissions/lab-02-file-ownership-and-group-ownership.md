@@ -10,12 +10,12 @@
 
 ## 🛠️ Commands & Configuration Used
 ```bash
-cd
-chown
-sudo
-chgrp
-ls
-
+cd (change directory)
+chown (change owner)
+sudo (admin privelege)
+chgrp (change group)
+ls (list)
+ls -l (list long format)
 ```
 
 ---
@@ -51,3 +51,4 @@ labex:project/ $
 
 ## 📝 Notes
 - Lessons learned, troubleshooting steps, or follow-up work.
+In this lab I learned how every file has an owner, also how to transfer the ownership of a file to another user should it be necessary. 
