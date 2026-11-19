@@ -9,7 +9,9 @@
 
 ## 🛠️ Commands & Configuration Used
 ```bash
-# Paste key commands or script snippets executed during the lab
+grep (search)
+cat (show file)
+id (identity of user)
 ```
 
 ---

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-06-users-groups-and-permissions/lab-01-users-and-groups-explained.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-06-users-groups-and-permissions/lab-02-file-ownership-and-group-ownership.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab-01-users-and-groups-explained"
+              "title": "lab-02-file-ownership-and-group-ownership"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1c25453de43b6e8b",
@@ -191,6 +192,8 @@
   },
   "active": "ade92c0cc3f24e2d",
   "lastOpenFiles": [
+    "Pasted image 20261119075717.png",
+    "module-01-linux-fundamentals-system-administration/course-06-users-groups-and-permissions/lab-01-users-and-groups-explained.md",
     "Pasted image 20261118203128.png",
     "module-01-linux-fundamentals-system-administration/course-05-shell-environment-and-variables/lab-06-environment-setup-script.md",
     "Pasted image 20261114154511.png",
@@ -211,7 +214,6 @@
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-05-sorting-and-unique-lines.md",
     "Pasted image 20261114101629.png",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-04-command-history.md",
-    "Pasted image 20261114100652.png",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-03-pipes-and-chaining-commands.md",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-02-redirection-to-files.md",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-01-standard-input-output-and-error.md",
@@ -226,7 +228,6 @@
     "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-05-removing-files-and-directories-safely.md",
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-02-understanding-the-terminal-and-prompt.md",
     "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-01-linux-directory-structure-overview.md",
-    "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-01-viewing-files-with-head-tail-and-cat.md",
     "desktop.ini"
   ]
 }
