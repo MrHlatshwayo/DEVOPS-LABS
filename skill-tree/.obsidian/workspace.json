@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-06-users-groups-and-permissions/lab-05-using-sudo-and-root-privileges.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-06-users-groups-and-permissions/lab-06-default-permissions-with-umask.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab-05-using-sudo-and-root-privileges"
+              "title": "lab-06-default-permissions-with-umask"
             }
           }
         ]
@@ -191,6 +191,8 @@
   },
   "active": "ade92c0cc3f24e2d",
   "lastOpenFiles": [
+    "module-01-linux-fundamentals-system-administration/course-06-users-groups-and-permissions/lab-05-using-sudo-and-root-privileges.md",
+    "Pasted image 20261119085644.png",
     "module-01-linux-fundamentals-system-administration/course-06-users-groups-and-permissions/lab-04-changing-permissions-with-symbolic-and-octal-modes.md",
     "Pasted image 20261119083251.png",
     "module-01-linux-fundamentals-system-administration/course-06-users-groups-and-permissions/lab-03-reading-permission-bits.md",
@@ -210,7 +212,6 @@
     "module-01-linux-fundamentals-system-administration/course-05-shell-environment-and-variables/lab-02-the-path-variable.md",
     "Pasted image 20261114145208.png",
     "module-01-linux-fundamentals-system-administration/course-05-shell-environment-and-variables/lab-01-environment-variables-explained.md",
-    "Pasted image 20261114144426.png",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-07-log-analysis-pipeline.md",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-06-command-aliases.md",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-05-sorting-and-unique-lines.md",
@@ -226,7 +227,6 @@
     "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-04-searching-content-with-grep.md",
     "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-02-paging-through-large-files.md",
     "module-01-linux-fundamentals-system-administration/course-01-linux-terminal-basics/lab-04-understanding-the-current-working-directory.md",
-    "module-01-linux-fundamentals-system-administration/course-02-file-system-navigation-and-file-operations/lab-05-removing-files-and-directories-safely.md",
     "desktop.ini"
   ]
 }
