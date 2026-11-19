@@ -15,9 +15,9 @@
 ```bash
 id (user info)
 sudo (root privelege)
-mkdir 
-chmod
-chgrp
+mkdir (make directory)
+chmod (change permissions)
+chgrp (change group)
 ```
 
 ---
@@ -44,3 +44,4 @@ labex:dev/ $
 
 ## 📝 Notes
 - Lessons learned, troubleshooting steps, or follow-up work.
+In this lab I showed my skills in creating a team workspace and securing it from anyone outside the group using root priveleges.
