@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-07-processes-and-job-control/lab-02-real-time-monitoring-with-top.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-07-processes-and-job-control/lab-03-foreground-and-background-jobs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab-02-real-time-monitoring-with-top"
+              "title": "lab-03-foreground-and-background-jobs"
             }
           }
         ]
@@ -191,6 +191,8 @@
   },
   "active": "ade92c0cc3f24e2d",
   "lastOpenFiles": [
+    "module-01-linux-fundamentals-system-administration/course-07-processes-and-job-control/lab-02-real-time-monitoring-with-top.md",
+    "Pasted image 20261124143800.png",
     "module-01-linux-fundamentals-system-administration/course-07-processes-and-job-control/lab-01-viewing-running-processes.md",
     "Pasted image 20261124142725.png",
     "module-01-linux-fundamentals-system-administration/course-06-users-groups-and-permissions/lab-07-secure-team-workspace.md",
@@ -210,7 +212,6 @@
     "module-01-linux-fundamentals-system-administration/course-05-shell-environment-and-variables/lab-06-environment-setup-script.md",
     "Pasted image 20261114154511.png",
     "module-01-linux-fundamentals-system-administration/course-05-shell-environment-and-variables/lab-05-command-substitution.md",
-    "Pasted image 20261114153017.png",
     "module-01-linux-fundamentals-system-administration/course-05-shell-environment-and-variables/lab-04-persistent-configuration.md",
     "module-01-linux-fundamentals-system-administration/course-05-shell-environment-and-variables/lab-03-creating-custom-variables.md",
     "module-01-linux-fundamentals-system-administration/course-05-shell-environment-and-variables/lab-02-the-path-variable.md",
@@ -226,7 +227,6 @@
     "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-08-configuration-file-repair.md",
     "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-07-intro-to-vim.md",
     "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-06-editing-files-with-nano.md",
-    "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-05-counting-and-measuring-data.md",
     "desktop.ini"
   ]
 }
