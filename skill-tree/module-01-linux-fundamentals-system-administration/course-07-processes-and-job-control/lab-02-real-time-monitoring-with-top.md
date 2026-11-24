@@ -2,7 +2,9 @@
 
 ## 🎯 Lab Objectives
 - What specific skill or tool was tested?
+  In this lab we will use the terminal, it will test our ability to do view processes in real time
 - What problem were you tasked to solve?
+  In this lab, I will catch resource-hungry apps in the act.
 
 ---
 
