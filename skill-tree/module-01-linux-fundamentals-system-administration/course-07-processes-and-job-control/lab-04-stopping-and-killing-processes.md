@@ -2,7 +2,9 @@
 
 ## 🎯 Lab Objectives
 - What specific skill or tool was tested?
+  In this lab we will be using the terminal, it test our ability to stop and kill processes
 - What problem were you tasked to solve?
+  In this lab, I will stop unresponsive programs safely.
 
 ---
 

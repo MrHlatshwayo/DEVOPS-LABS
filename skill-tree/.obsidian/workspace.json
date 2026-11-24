@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "module-01-linux-fundamentals-system-administration/course-07-processes-and-job-control/lab-03-foreground-and-background-jobs.md",
+                "file": "module-01-linux-fundamentals-system-administration/course-07-processes-and-job-control/lab-04-stopping-and-killing-processes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab-03-foreground-and-background-jobs"
+              "title": "lab-04-stopping-and-killing-processes"
             }
           }
         ]
@@ -191,6 +191,8 @@
   },
   "active": "ade92c0cc3f24e2d",
   "lastOpenFiles": [
+    "module-01-linux-fundamentals-system-administration/course-07-processes-and-job-control/lab-03-foreground-and-background-jobs.md",
+    "Pasted image 20261124145628.png",
     "module-01-linux-fundamentals-system-administration/course-07-processes-and-job-control/lab-02-real-time-monitoring-with-top.md",
     "Pasted image 20261124143800.png",
     "module-01-linux-fundamentals-system-administration/course-07-processes-and-job-control/lab-01-viewing-running-processes.md",
@@ -210,7 +212,6 @@
     "module-01-linux-fundamentals-system-administration/course-06-users-groups-and-permissions/lab-01-users-and-groups-explained.md",
     "Pasted image 20261118203128.png",
     "module-01-linux-fundamentals-system-administration/course-05-shell-environment-and-variables/lab-06-environment-setup-script.md",
-    "Pasted image 20261114154511.png",
     "module-01-linux-fundamentals-system-administration/course-05-shell-environment-and-variables/lab-05-command-substitution.md",
     "module-01-linux-fundamentals-system-administration/course-05-shell-environment-and-variables/lab-04-persistent-configuration.md",
     "module-01-linux-fundamentals-system-administration/course-05-shell-environment-and-variables/lab-03-creating-custom-variables.md",
@@ -226,7 +227,6 @@
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/README.md",
     "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-08-configuration-file-repair.md",
     "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-07-intro-to-vim.md",
-    "module-01-linux-fundamentals-system-administration/course-03-viewing-searching-and-editing-files/lab-06-editing-files-with-nano.md",
     "desktop.ini"
   ]
 }
