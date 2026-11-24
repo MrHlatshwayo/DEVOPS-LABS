@@ -18,7 +18,10 @@
 ## ✅ Results
 - What was completed?
 - What output or verification confirmed success?
-
+```
+  
+```
+![](Pasted%20image%2020261124152002.png)
 ---
 
 ## 📝 Notes
