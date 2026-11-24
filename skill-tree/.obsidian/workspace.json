@@ -191,6 +191,7 @@
   },
   "active": "ade92c0cc3f24e2d",
   "lastOpenFiles": [
+    "Pasted image 20261124153728.png",
     "module-01-linux-fundamentals-system-administration/course-07-processes-and-job-control/lab-05-process-priority-with-nice-and-renice.md",
     "Pasted image 20261124152859.png",
     "module-01-linux-fundamentals-system-administration/course-07-processes-and-job-control/lab-04-stopping-and-killing-processes.md",
@@ -226,7 +227,6 @@
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-03-pipes-and-chaining-commands.md",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-02-redirection-to-files.md",
     "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/lab-01-standard-input-output-and-error.md",
-    "module-01-linux-fundamentals-system-administration/course-04-shell-redirection-and-pipelines/README.md",
     "desktop.ini"
   ]
 }
